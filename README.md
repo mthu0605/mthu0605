@@ -25,6 +25,6 @@
 - Python 3.x, Jupyter Notebook  
 - Stata 17  
 - Git & GitHub  
-- Thư viện: `pandas`, `matplotlib`
+- Thư viện: `pandas`, `matplotlib`.
 
 
